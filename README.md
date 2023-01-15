@@ -10,8 +10,9 @@ Im currently working on MNC OTT Network Vision+ as Data Analyst, i really enjoy 
   <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
   <img title="Postgresql" alt="Postgresql" src="https://cdn.cdnlogo.com/logos/p/93/postgresql.svg" width="40" />
   <img title="Dbeaver" alt="Dbeaver" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" width="40" />
-</p>
+  <img title="AWS Redshift" alt="Redshift" src="https://cdn.cdnlogo.com/logos/a/25/aws-redshift.svg" width="40" />
 
+</p>
 
 
 
