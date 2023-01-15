@@ -1,6 +1,6 @@
-### Hi Iam Adam Aditama 
+### Hi I'm Adam Aditama 
 
-Im currently working on MNC OTT Network Vision+ as Data Analyst, i really enjoy to learning all about Data Science. im proficient in Data Processing, Data Warehousing and Build Automation about Data. As well as scripting Languages, including Python and SQL. 
+I'm currently working on MNC OTT Network Vision+ as Data Analyst, i really enjoy to learning all about Data Science. im proficient in Data Processing, Data Warehousing and Build Automation about Data. As well as scripting Languages, including Python and SQL. 
 
 
 ### My Skills 
@@ -11,9 +11,12 @@ Im currently working on MNC OTT Network Vision+ as Data Analyst, i really enjoy 
   <img title="Postgresql" alt="Postgresql" src="https://cdn.cdnlogo.com/logos/p/93/postgresql.svg" width="40" />
   <img title="Dbeaver" alt="Dbeaver" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" width="40" />
   <img title="AWS Redshift" alt="Redshift" src="https://cdn.cdnlogo.com/logos/a/25/aws-redshift.svg" width="40" />
-
+  <img title="AWS S3" alt="S3" src="https://cdn.cdnlogo.com/logos/a/59/aws-s3.svg" width="40" />
 </p>
 
+### Personal Contact
+Email : adamaditamaa@gmail.com <br>
+Linkedin : www.linkedin.com/in/adamaditama
 
 
 <!--
