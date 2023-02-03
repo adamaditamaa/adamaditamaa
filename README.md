@@ -1,6 +1,6 @@
 ### Hi I'm Adam Aditama 
 
-I'm currently working on MNC OTT Network Vision+ as Data Analyst, i really enjoy to learning all about Data Science. im proficient in Data Processing, Data Warehousing and Build Automation about Data. As well as scripting Languages, including Python and SQL. 
+I'm currently working on MNC OTT Network Vision+ as Data Engineer, i really enjoy to learning all about Data Science. im proficient in Data Processing, Data Warehousing and Build Automation about Data. As well as scripting Languages, including Python and SQL. 
 
 
 ### My Skills 
